@@ -1,5 +1,5 @@
 {
-    "name": "masterexploder/phpthumb",
+    "name": "be-interactive/phpthumb",
     "type": "library",
     "license": "MIT",
     "description": "A library for manipulating images in PHP.",
@@ -7,7 +7,7 @@
     "require": {
         "php": ">=5.3.0"
     },
-    "homepage": "https://github.com/masterexploder/PHPThumb",
+    "homepage": "https://github.com/be-interactive/PHPThumb",
     "authors": [
         {
             "name": "Ian Selby",
